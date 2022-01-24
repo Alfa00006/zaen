@@ -1,5 +1,5 @@
 TgCrypto
-
+git+https://github.com/pyrogram/pyrogram
 py-tgcalls==0.8.4
 requests
 aiohttp
